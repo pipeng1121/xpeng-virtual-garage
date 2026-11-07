@@ -1,0 +1,8 @@
+{
+  "name": "Xpeng Control",
+  "short_name": "Xpeng",
+  "display": "standalone",
+  "start_url": "/xpeng-ios-ui/", 
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
